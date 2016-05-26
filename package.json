@@ -1,0 +1,24 @@
+{
+  "name": "combine-css-imports",
+  "version": "1.0.0",
+  "description": "Combines css imports from external files to create polymer style modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Polymer",
+    "custom-style",
+    "polymer",
+    "style",
+    "modules"
+  ],
+  "author": "Anand Aravindan <anand.anand84@gmail.com> (traderslab.in)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
