@@ -1,6 +1,6 @@
 {
   "name": "combine-css-imports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Combines css imports from external files to create polymer style modules",
   "main": "index.js",
   "scripts": {
